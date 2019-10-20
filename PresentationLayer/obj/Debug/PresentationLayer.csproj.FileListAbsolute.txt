@@ -1,0 +1,56 @@
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\csc.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\vbc.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\obj\Debug\PresentationLayer.HomeForm.resources
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\CustomerWebService\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\BusinessEntities.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.AddCustomer.resources
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.CustomerForm.resources
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.EditCustomer.resources
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.Homepage.resources
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\csc.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\vbc.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\PresentationLayer\bin\Debug\roslyn\VBCSCompiler.exe.config

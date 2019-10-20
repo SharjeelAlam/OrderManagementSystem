@@ -1,0 +1,5 @@
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\Sharjeel\Documents\Work\Work\.Net Projects\Customer Management System\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
